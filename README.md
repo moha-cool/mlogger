@@ -21,5 +21,5 @@ Zeigt Land, Stadt, Postleitzahl, Koordinaten und Zeitzone einer IP-Adresse an.
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/DEIN-USERNAME/geo-ip-tool.git
+git clone https://github.com/moha-cool/mlogger.git
 cd mlogger
