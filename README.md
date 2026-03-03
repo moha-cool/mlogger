@@ -23,3 +23,5 @@ Zeigt Land, Stadt, Postleitzahl, Koordinaten und Zeitzone einer IP-Adresse an.
 ```bash
 git clone https://github.com/moha-cool/mlogger.git
 cd mlogger
+pip install -r requirements.txt
+python main.py
