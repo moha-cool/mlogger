@@ -14,7 +14,7 @@ def banner():
    =====================================
     """)
 
-def locate_ip(ip_address):
+def locate_ip(ip_address):      #wer das liest ist dumm haha emre
     reader = geolite2.reader()
     location = reader.get(ip_address)
 
